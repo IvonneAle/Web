@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ProyectoConectorJDBC">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ProyectoConectorJDBC"/>
+        <property name="java-output-path" value="/ProyectoConectorJDBC/build/classes"/>
+    </wb-module>
+</project-modules>
